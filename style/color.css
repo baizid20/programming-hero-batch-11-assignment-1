@@ -24,15 +24,17 @@
     font-style: normal;
   }
   
+ 
+  
+  
+  
+  /* used-font */
   .fira-sans-regular {
     font-family: "Fira Sans", serif;
     font-weight: 400;
     font-style: normal;
   }
-  
-  
-  
-  /* used-font */
+
   .fira-sans-medium {
     font-family: "Fira Sans", serif;
     font-weight: 500;
@@ -146,4 +148,49 @@
 
 /* banner section end here */
 /* header section end here(navbar & banner)*/
+
+/* main section start (card,vision-card) */
+/* card section start */
+.card-main-heading{
+    font-size: 34px;
+}
+
+.card-main-div{
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+
+.card-img{
+    width:50px;
+    padding:10px 0px;
+}
+
+.card-second-div{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    width: 254px;
+    height: 205px;
+    border: 1px solid ;
+    border:white;
+    border-radius: 14px;
+    margin:25px 25px 25px 0px;
+    padding: 21px;
+    background-color: #FFFFFF;
+}
+.card-description{
+    line-height: 21px;
+    font-size: 16px;
+    color:#0E0E0E;
+    opacity: 70%;
+    
+}
+
+.card-title{
+    font-size: 17px;
+    color:#0E0E0E;
+    opacity: 80%;
+}
 
