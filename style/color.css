@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* fira-sans :General used font (for overall webpage) */
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .fira-sans-extralight {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .fira-sans-light {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  /* used-font */
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  /* used-font ended */
+
+  .fira-sans-extrabold {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .fira-sans-black {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+ 
+
+  /* frequently used style in overall webpage */
+
+  .common-bg-color{
+    background-color: #C6E4D6;
+  }
+  .overall-style{
+    background-color: #F5F5F5;
+    padding: 21px 135px 68px 135px;
+  }
+  .primary-btn{
+    background-color: #006A50 ; 
+    color:white;
+  }
+
+  /* header section (navbar & banner) */
+
+  /* nav section start */
+
+  .nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  nav>h4{
+    font-size: 27px;
+  }
+  .nav-btn{
+    border:1px solid #006A50;
+    color: #006A50;
+    padding:10px 20px 10px 20px;
+    border-radius: 5px;
+    line-height: auto;
+    font-size: 16px;
+  }
+
+  /* nav section ended */
+  /* banner section start */
+  
+  
