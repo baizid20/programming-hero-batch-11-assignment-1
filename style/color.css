@@ -137,6 +137,7 @@
     padding: 15px 29px;
     font-size: 16px;
     cursor: pointer;
+    border: none;
 }
 .banner-btn:hover{
    color: rgb(233, 10, 10);
@@ -206,6 +207,7 @@
 }
 
 .vision-paragraph{
+    margin-bottom:20px;
     font-size: 14px;
     line-height: 21px;
     color:#0E0E0E;
@@ -242,7 +244,16 @@
     padding:10px 17px 10px 17px;
     color:white;
     margin-top: 40px;
+    border: none;
 }
+
+.vision-card-btn:hover{
+  background-color: rosybrown ;
+  color:white;
+  font-size: larger;
+  padding:10px 10px;
+}
+
 .holud{
     background-color: #FFC239;
 }
@@ -259,7 +270,7 @@
     background-color: #C6E4D6;
 }
 .halka-nil{
-    background-color: #5490F5;
+    background-color: rgb(200, 229, 239);
 }
 .vision-card-description{
     margin-top: 10px;
@@ -274,3 +285,29 @@
 }
 
 /* vision-card section ended */
+/* quotation section start here */
+.quotation{
+  background-color: white;
+  padding: 41px 21px;
+  background-image: url('/assets/quote-bg.png');
+  background-repeat: no-repeat;
+}
+.q-description{
+  font-size: 16px;
+  line-height: 21px;
+  color:#0E0E0E;
+  opacity: 80%;
+}
+.q-bold{
+  font-size: 17px;
+  line-height: 21px;
+  color:#0E0E0E;
+  opacity: 80%;
+  padding-top:10px;
+}
+.q-named-text{
+  font-size: 16px;
+  line-height: 21px;
+  color:#0E0E0E;
+  opacity: 60%;
+}
