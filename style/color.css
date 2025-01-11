@@ -337,10 +337,7 @@
   padding:21px;
 }
 
-.opinion-text-overall-div{
-  
- 
-}
+
 
 .opinion-text-select-content{
   display: flex;
@@ -374,5 +371,62 @@
 /* Your Opinion Matters section ended */
 
 /*  Recent news section start  */
+.recent-news-title-div{
+  margin:68px 0px 27px 0px;
+}
+.layer-div{
+  background-color: white;
+  padding:41px;
+  border-radius: 21px;
+}
+.layer-for-flex{
+  display: flex;
+  gap:27px;
+}
+.layer-for-flex-second{
+  display: flex;
+  flex-direction: row-reverse;
+  gap:27px;
+}
+.layer-box-top-margin{
+  margin-top: 20px;
+}
 
+.layer-img{
+  width:343px;
+  height: 258px;
+  border-radius: 21px;
+}
+
+.layer-heading{
+  font-size: 27px;
+  padding-bottom: 10px;
+}
+.layer-icon{
+  width: 113px;
+  height: 34px;
+}
+.layer-btn{
+  background-color: #006A50;
+  color:white;
+  padding:11px 22px;
+  border-radius: 7px;
+  font-size: 16px;
+  border:none;
+}
+.layer-btn:hover{
+  font-size: larger;
+  background-color: lightgreen;
+  color:black;
+  padding:10px;
+}
+.layer-paragraph{
+  padding-bottom:27px;
+  padding-top:10px;
+}
+.date{
+  display: flex;
+  gap:10px;
+  margin-top:10px;
+}
 /*  Recent news section start  */
