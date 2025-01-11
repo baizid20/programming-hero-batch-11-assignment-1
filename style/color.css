@@ -469,7 +469,10 @@
 }
 
 .donate-last-btn:hover{
-  background-color: #C6E4D6;
+  font-size: larger;
+  background-color: lightgreen;
+  color:black;
+  padding:20px;
  }
 
 /* Donate now section ended */
@@ -507,6 +510,11 @@
   color:white;
   border-radius: 0px 10px 10px 0px;
   border: none;
+}
+.subscribe:hover{
+  font-size: larger;
+  background-color: lightgreen;
+  color:black;
 }
 /* news letter section ended */
 
