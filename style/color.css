@@ -176,7 +176,7 @@
     border: 1px solid ;
     border:white;
     border-radius: 14px;
-    margin:25px 25px 25px 0px;
+    margin:45px 25px 68px 0px;
     padding: 21px;
     background-color: #FFFFFF;
 }
@@ -194,3 +194,83 @@
     opacity: 80%;
 }
 
+/* card section end here */
+
+/* vision card section start here */
+
+
+.vision-heading{
+    font-size: 34px;
+    margin-bottom: 20px;
+    
+}
+
+.vision-paragraph{
+    font-size: 14px;
+    line-height: 21px;
+    color:#0E0E0E;
+    opacity: 70%;
+}
+
+.vision-card-img{
+    width:80px;
+    margin-bottom: 20px;
+}
+.vision-card-title{
+    
+    font-size: 17px;
+    color:#0E0E0E;
+    opacity: 80%;
+}
+.vision-card-core-div{
+    width: 273px;
+    height:273px;
+   padding:27px;
+   border-radius: 14px;
+
+    
+}
+
+.vision-card-second-div{
+    display: flex;
+    margin:20px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+.vision-card-btn{
+    border-radius: 7px;
+    padding:10px 17px 10px 17px;
+    color:white;
+    margin-top: 40px;
+}
+.holud{
+    background-color: #FFC239;
+}
+.halka-holud{
+    background-color:#F7EBCF;
+}
+.sobuj{
+    background-color: #006A50;
+}
+.nil{
+    background-color: #5490F5;
+}
+.halka-sobuj{
+    background-color: #C6E4D6;
+}
+.halka-nil{
+    background-color: #5490F5;
+}
+.vision-card-description{
+    margin-top: 10px;
+    line-height: 21px;
+    font-size: 14px;
+    line-height: 21px;
+    color:#0E0E0E;
+    opacity: 70%;
+}
+.green{
+   padding:10px 0px ;
+}
+
+/* vision-card section ended */
