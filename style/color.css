@@ -503,6 +503,9 @@
 .newsletter-description{
   text-align: center;
 }
+.email{
+  border: none;
+}
 .subscribe{
   padding:15px 29px;
   background-color: #006A50;
